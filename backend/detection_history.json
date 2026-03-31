@@ -1,0 +1,193 @@
+[
+  {
+    "id": "48a02f6371c24a2d966c41819e491af8",
+    "result_image": "result_60b21e29556e4367be9decb8e86768c6.jpg",
+    "total_detections": 20,
+    "detections": [
+      {
+        "confidence": 0.8818835020065308,
+        "confidence_percent": "88.2%"
+      },
+      {
+        "confidence": 0.8730196356773376,
+        "confidence_percent": "87.3%"
+      },
+      {
+        "confidence": 0.865850031375885,
+        "confidence_percent": "86.6%"
+      },
+      {
+        "confidence": 0.8586313128471375,
+        "confidence_percent": "85.9%"
+      },
+      {
+        "confidence": 0.8502923250198364,
+        "confidence_percent": "85.0%"
+      },
+      {
+        "confidence": 0.8497862219810486,
+        "confidence_percent": "85.0%"
+      },
+      {
+        "confidence": 0.8427634835243225,
+        "confidence_percent": "84.3%"
+      },
+      {
+        "confidence": 0.8381237387657166,
+        "confidence_percent": "83.8%"
+      },
+      {
+        "confidence": 0.8310469388961792,
+        "confidence_percent": "83.1%"
+      },
+      {
+        "confidence": 0.8225974440574646,
+        "confidence_percent": "82.3%"
+      },
+      {
+        "confidence": 0.8044636845588684,
+        "confidence_percent": "80.4%"
+      },
+      {
+        "confidence": 0.7815372943878174,
+        "confidence_percent": "78.2%"
+      },
+      {
+        "confidence": 0.7697966694831848,
+        "confidence_percent": "77.0%"
+      },
+      {
+        "confidence": 0.76190584897995,
+        "confidence_percent": "76.2%"
+      },
+      {
+        "confidence": 0.7488631010055542,
+        "confidence_percent": "74.9%"
+      },
+      {
+        "confidence": 0.6945151090621948,
+        "confidence_percent": "69.5%"
+      },
+      {
+        "confidence": 0.47631195187568665,
+        "confidence_percent": "47.6%"
+      },
+      {
+        "confidence": 0.4198996424674988,
+        "confidence_percent": "42.0%"
+      },
+      {
+        "confidence": 0.39365485310554504,
+        "confidence_percent": "39.4%"
+      },
+      {
+        "confidence": 0.2517573833465576,
+        "confidence_percent": "25.2%"
+      }
+    ],
+    "timestamp": "2026-03-30T14:05:06.506722",
+    "best_confidence": 0.8818835020065308
+  },
+  {
+    "id": "679fc0a051f84d5292b13a9871bc1f12",
+    "result_image": "result_3952bf9fe3f6414183f838b661e1ebce.jpg",
+    "total_detections": 1,
+    "detections": [
+      {
+        "confidence": 0.8883715271949768,
+        "confidence_percent": "88.8%"
+      }
+    ],
+    "timestamp": "2026-03-30T12:59:55.088813",
+    "best_confidence": 0.8883715271949768
+  },
+  {
+    "id": "d7845ef15e6a43f5950c07e22240b207",
+    "result_image": "result_fd004449a7464974b4a3a6a8d74f50e3.jpg",
+    "total_detections": 20,
+    "detections": [
+      {
+        "confidence": 0.8818835020065308,
+        "confidence_percent": "88.2%"
+      },
+      {
+        "confidence": 0.8730196356773376,
+        "confidence_percent": "87.3%"
+      },
+      {
+        "confidence": 0.865850031375885,
+        "confidence_percent": "86.6%"
+      },
+      {
+        "confidence": 0.8586313128471375,
+        "confidence_percent": "85.9%"
+      },
+      {
+        "confidence": 0.8502923250198364,
+        "confidence_percent": "85.0%"
+      },
+      {
+        "confidence": 0.8497862219810486,
+        "confidence_percent": "85.0%"
+      },
+      {
+        "confidence": 0.8427634835243225,
+        "confidence_percent": "84.3%"
+      },
+      {
+        "confidence": 0.8381237387657166,
+        "confidence_percent": "83.8%"
+      },
+      {
+        "confidence": 0.8310469388961792,
+        "confidence_percent": "83.1%"
+      },
+      {
+        "confidence": 0.8225974440574646,
+        "confidence_percent": "82.3%"
+      },
+      {
+        "confidence": 0.8044636845588684,
+        "confidence_percent": "80.4%"
+      },
+      {
+        "confidence": 0.7815372943878174,
+        "confidence_percent": "78.2%"
+      },
+      {
+        "confidence": 0.7697966694831848,
+        "confidence_percent": "77.0%"
+      },
+      {
+        "confidence": 0.76190584897995,
+        "confidence_percent": "76.2%"
+      },
+      {
+        "confidence": 0.7488631010055542,
+        "confidence_percent": "74.9%"
+      },
+      {
+        "confidence": 0.6945151090621948,
+        "confidence_percent": "69.5%"
+      },
+      {
+        "confidence": 0.47631195187568665,
+        "confidence_percent": "47.6%"
+      },
+      {
+        "confidence": 0.4198996424674988,
+        "confidence_percent": "42.0%"
+      },
+      {
+        "confidence": 0.39365485310554504,
+        "confidence_percent": "39.4%"
+      },
+      {
+        "confidence": 0.2517573833465576,
+        "confidence_percent": "25.2%"
+      }
+    ],
+    "timestamp": "2026-03-28T19:44:14.141803",
+    "best_confidence": 0.8818835020065308
+  }
+]
